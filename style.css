@@ -8,7 +8,7 @@ section {
 .cabecalho {
     margin: -8px;
     font-family: 'Courier New', Courier, monospace;
-    font-size: 77px;
+    font-size: 54px;
     padding: 20px 299px;
     background-color: #000000;
     color: aliceblue;
@@ -18,7 +18,7 @@ section {
 .boas-vindas {
     margin: 5px -8px 15px;
     font-family: 'Courier New', Courier, monospace;
-    font-size: 38px;
+    font-size: 23px;
     padding: 20px 450px;
     background-color: #1C1C1C;
     color: aliceblue;
