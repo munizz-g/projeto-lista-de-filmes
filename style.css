@@ -26,17 +26,78 @@ section {
 }
 
 .tipo {
-    margin: -5px -8px 3px;
+    margin: 20px 110px;
     font-family: 'Courier New', Courier, monospace;
-    font-size: 34px;
-    padding: 15px 140px ;
+    font-size: 23px;
+    padding: 16px;
     background-color: #696969;
     border: solid 8px #ff2800;
+    text-align: center;
 }
 
-.tamanho {
-    max-width: 100%;
-    max-height: 100%;
-    margin: 4px -8px -3px;
-    border: solid 8px #ff2800 ;
+.tamanhoPrincipal {
+    max-width: 26.9rem;
+    max-height: 15cm;
+    margin: 1.5px;
+    border: solid 8px #ff2800;
+    text-align: center;
+}
+
+div .genero {
+    background-color: #000000;
+    color: aliceblue;
+    font-family: 'Courier New', Courier, monospace;
+    margin: 1px;
+    padding: 20px;
+    font-size: 75px;
+    text-align: center;
+}
+
+/* pagina 2 */
+
+.genero {
+    background-color: #000000;
+    color: aliceblue;
+    font-family: 'Courier New', Courier, monospace;
+    margin: 1px;
+    padding: 20px;
+    font-size: 75px;
+    text-align: center;
+}
+
+.descricaoParagrafo {
+    background-color: #1C1C1C;
+    color: aliceblue;
+    font-family: 'Courier New', Courier, monospace;
+    margin: 5px 5px;
+    border: solid 8px #ff2800;
+    padding: 15px;
+    font-size: 25px;
+    text-align: center;
+    font-weight: bold;
+}
+
+
+.nomeDoFilme {
+    background-color: #696969;
+    color: aliceblue;
+    font-family: 'Courier New', Courier, monospace;
+    margin: 35px 100px;
+    border: solid 8px #ff2800;
+    padding: 10px;
+    font-size: 35px;
+    text-align: center;
+    font-weight: 900;
+    width: 500px;
+
+}
+
+img.tamanho {
+    margin: 1px 117px 1px 121px; 
+    background-color: aqua;
+    max-width: 26.9rem;
+    max-height:15cm;
+    border: solid 8px #ff2800;
+    text-align: center;
+
 }
